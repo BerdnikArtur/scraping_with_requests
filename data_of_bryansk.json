@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Лебединое озеро",
+        "date_and_time": "31 мар • вс • 17:00",
+        "place": "Брянская областная филармония",
+        "price": "от 1 000 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/gorodskoy-dvorec-kultury-elabuga/lebedinoe-ozero-balet/"
+    },
+    {
+        "name": "Юнона и Авось",
+        "date_and_time": "14 фев • ср • 19:00",
+        "place": "ДК БМЗ Брянск",
+        "price": "от 1 500 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/astrahanskiy-dvorec-kultury-arkadiya/rok-opera-yunona-i-avos-ttk-kosmos/"
+    },
+    {
+        "name": "Группа «Кипелов»",
+        "date_and_time": "16 фев • пт • 19:00",
+        "place": "Дворец единоборств им. А. Осипенко",
+        "price": "от 2 200 ₽",
+        "link": "https://bryansk.ticketland.ru/sportivnye-kompleksy/skk-orenburzhe/gruppa-kipelovgruppa-kipelov-dk/"
+    },
+    {
+        "name": "Оркестр «CAGMO» - Саундтреки Эйнауди",
+        "date_and_time": "18 янв • чт • 19:00",
+        "place": "Брянская областная филармония",
+        "price": "от 1 400 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/bryanskaya-oblastnaya-filarmoniya/bryansk-orkestr-cagmo-saundtreki-eynaudi/"
+    },
+    {
+        "name": "Xolidayboy",
+        "date_and_time": "31 янв • ср • 20:00",
+        "place": "Ресторан «Fabrika»",
+        "price": "от 2 200 ₽",
+        "link": "https://bryansk.ticketland.ru/drugoe/restoran-fabrika/xolidayboy-bryansk/"
+    },
+    {
+        "name": "Битва Хитов Michael Jackson против Queen. Лазерное Симфо-Рок-Шоу",
+        "date_and_time": "15 мар • пт • 19:00",
+        "place": "ДК БМЗ Брянск",
+        "price": "от 990 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/krasnodarskaya-filarmoniya-imeni-grigoriya-ponomarenko/bitva-khitov-michael-jackson-protiv-queen-lazernoe-simfo-rok-shou/"
+    },
+    {
+        "name": "Спящая красавица",
+        "date_and_time": "12 фев • пн • 18:30",
+        "place": "МБУК «МКДЦ» Дятьково",
+        "price": "от 700 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/mbuk-mkdc-dyatkovo/dyatkovo-spyaschaya-krasavica/"
+    },
+    {
+        "name": "Спящая красавица",
+        "date_and_time": "14 фев • ср • 18:00",
+        "place": "МБУК ЦКИД «Современник»",
+        "price": "от 800 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/mbuk-ckid-sovremennik/klincy-spyaschaya-krasavica/"
+    },
+    {
+        "name": "Мировые хиты симфо-рока с Ariom Orchestra",
+        "date_and_time": "14 мар • чт • 19:00",
+        "place": "КЗ«Дружба» (Брянск)",
+        "price": "от 1 590 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/dk-energomash/mirovye-khity-simfo-roka-s-ariom-orchestra/"
+    },
+    {
+        "name": "DS Crew",
+        "date_and_time": "11 апр • чт • 19:00",
+        "place": "ДК БМЗ Брянск",
+        "price": "от 1 500 ₽",
+        "link": "https://bryansk.ticketland.ru/doma-kultury/dk-bmz-bryansk/ds-crew-pervyy-solnyy-koncert-v-g-bryansk/"
+    },
+    {
+        "name": "Парад звезд 80-х",
+        "date_and_time": "10 мар • вс • 19:00",
+        "place": "Брянская областная филармония",
+        "price": "от 1 400 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/bryanskaya-oblastnaya-filarmoniya/parad-zvezd-kh-bryansk/"
+    },
+    {
+        "name": "Петр Захаров. «Лучшие песни эпохи»",
+        "date_and_time": "24 янв • ср • 19:00",
+        "place": "Брянская областная филармония",
+        "price": "от 1 000 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/bryanskaya-oblastnaya-filarmoniya/petr-zakharov-luchshie-pesni-epokhi/"
+    },
+    {
+        "name": "Оркестр CAGMO. Симфония Король и Шут. Концерт №2",
+        "date_and_time": "10 фев • сб • 18:00",
+        "place": "Брянская областная филармония",
+        "price": "от 2 000 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/bryanskaya-oblastnaya-filarmoniya/bryansk-orkestr-cagmo-simfoniya-korol-i-shut-koncert-2/"
+    },
+    {
+        "name": "Оркестр CAGMO. Симфония Король и Шут. Концерт №1",
+        "date_and_time": "16 мар • сб • 18:00",
+        "place": "Брянская областная филармония",
+        "price": "от 2 000 ₽",
+        "link": "https://bryansk.ticketland.ru/koncertnye-zaly/bryanskaya-oblastnaya-filarmoniya/orkestr-cagmo-simfoniya-korol-i-shut-koncert-1-bryansk/"
+    },
+    {
+        "name": "Йорш",
+        "date_and_time": "16 мар • сб • 19:00",
+        "place": "Клуб «Deus» Брянск",
+        "price": "от 1 200 ₽",
+        "link": "https://bryansk.ticketland.ru/kluby/klub-deus-bryansk/yorsh-bryansk/"
+    },
+    {
+        "name": "Polnalyubvi",
+        "date_and_time": "5 мая • вс • 20:00",
+        "place": "Ресторан «Fabrika»",
+        "price": "от 1 500 ₽",
+        "link": "https://bryansk.ticketland.ru/drugoe/restoran-fabrika/polnalyubvi-bryansk-5-maya-fabrika/"
+    }
+]
